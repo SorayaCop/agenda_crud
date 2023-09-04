@@ -1,0 +1,16 @@
+📝💻 Sistema de agenda de contatos.
+
+Aplicação simples demostrando o conceito de CRUD.
+
+- HTML
+- CSS
+- Bootstrap
+- PHP
+- Banco de dados (MySQL)
+
+
+
+O CRUD é um conceito fundamental em sistemas de informação e desenvolvimento de software, 
+pois representa as operações básicas que os aplicativos realizam em dados armazenados em um banco de dados. 
+Muitos aplicativos, como sites, aplicativos móveis e sistemas de gerenciamento, dependem dessas operações 
+para interagir com dados de maneira eficaz e controlada.
